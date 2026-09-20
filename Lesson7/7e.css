@@ -1,0 +1,8 @@
+.txt{
+    border: none;
+    border-radius: 15px;
+    border-color: grey;
+    padding: 5px;
+    width: 250px;
+    box-shadow: 2px 2px 2px 2px gray;
+}
