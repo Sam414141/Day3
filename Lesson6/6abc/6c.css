@@ -1,0 +1,11 @@
+.GitHub-btn{
+        background-color: rgb(46,164,79);
+        color: white;
+        border: none;
+        border-radius: 5px;
+        height: 40px;
+        width: 100px;
+    }
+    .GitHub-btn:hover {
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.2);
+}
