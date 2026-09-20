@@ -1,0 +1,11 @@
+.Amazon-btn{
+        background-color: rgb(255,216,20);
+        color: black;
+        border: none;
+        border-radius: 18px;
+        height: 40px;
+        width: 150px;
+    }
+    .Amazon-btn:hover{
+        background-color: red;
+    }
