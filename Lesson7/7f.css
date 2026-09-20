@@ -1,0 +1,19 @@
+.txt{
+    border: 1px solid;
+    border-radius: 3px;
+    border-color: black;
+    padding: 5px;
+    width: 400px;
+
+}
+.grey{
+    color: grey;
+}
+.btn{
+    width: 400px;
+    border-radius: 15px;
+    background-color: rgb(84, 97, 214);
+    color: white;
+    border: none;
+    padding: 5px;
+}
